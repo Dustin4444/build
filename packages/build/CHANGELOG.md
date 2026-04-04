@@ -105,6 +105,13 @@
   * dependencies
     * @netlify/config bumped from ^20.8.0 to ^20.8.1
 
+## [35.12.0](https://github.com/netlify/build/compare/build-v35.11.2...build-v35.12.0) (2026-04-04)
+
+
+### Features
+
+* validate duplicate netlifyDB migrations ([#7010](https://github.com/netlify/build/issues/7010)) ([230dfbf](https://github.com/netlify/build/commit/230dfbf9ae323b41f6734cc1ffe48a676bfea4ef))
+
 ## [35.11.2](https://github.com/netlify/build/compare/build-v35.11.1...build-v35.11.2) (2026-03-26)
 
 
