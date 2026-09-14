@@ -26,8 +26,8 @@
   "author": "Netlify",
   "license": "MIT",
   "dependencies": {
-    "smol-toml": "^1.5.2",
-    "fast-safe-stringify": "^2.1.1"
+    "fast-safe-stringify": "^2.1.1",
+    "smol-toml": "^1.7.1"
   },
   "devDependencies": {
     "@types/node": "^22.12.0",
