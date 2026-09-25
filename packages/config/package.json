@@ -76,7 +76,7 @@
     "p-locate": "^6.0.0",
     "path-type": "^6.0.0",
     "read-package-up": "^11.0.0",
-    "smol-toml": "^1.5.2",
+    "smol-toml": "^1.7.1",
     "tomlify-j0.4": "^3.0.0",
     "validate-npm-package-name": "^5.0.0",
     "yaml": "^2.8.0",
